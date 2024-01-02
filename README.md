@@ -16,7 +16,7 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can check the todo list page `http://localhost:3000/todos`. 
+You can check the todo list page [Todos](http://localhost:3000/todos). 
 
 ## Learn More
 
