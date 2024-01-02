@@ -18,6 +18,11 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 You can check the todo list page [Todos](http://localhost:3000/todos). 
 
+What I have used: 
+- tailwind CSS for the UI 
+- axios for the network call 
+- MongoDB for the database 
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
